@@ -1,0 +1,3695 @@
+[
+    {
+        "file": "Testlio/app/src/components/ActivitySummaryGraph/index.tsx",
+        "components": [
+            "TColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/AddToPlans/AddNewPlan/index.tsx",
+        "components": [
+            "Icon",
+            "Table",
+            "Text",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/AddToPlans/PlansList/index.tsx",
+        "components": [
+            "Table",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/AddToPlans/index.tsx",
+        "components": [
+            "Modal",
+            "Input",
+            "Icon",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/ArchiveButton/index.jsx",
+        "components": [
+            "Button",
+            "PantheraIcon",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/DragAndDropFiles/index.tsx",
+        "components": [
+            "Loader"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/EngagementHoursTable/index.tsx",
+        "components": [
+            "NewTableStatic",
+            "Text",
+            "Tooltip",
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/EngagementHoursWidgets/index.tsx",
+        "components": [
+            "Link",
+            "Text",
+            "Icon",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/EngagementHoursWidgets/index.tsx",
+        "components": [
+            "TColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/EngagementHoursWidgets/shared/History/index.tsx",
+        "components": [
+            "Banner",
+            "Loader"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/EngagementHoursWidgets/shared/helpers.test.ts",
+        "components": [
+            "TColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/ErrorPage/index.tsx",
+        "components": [
+            "Button",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/ExportTestsButton/index.tsx",
+        "components": [
+            "Button",
+            "NewModal"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/FileChip/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/FileUploader/Attachment/Edit/index.tsx",
+        "components": [
+            "Icon",
+            "Button",
+            "Text",
+            "Link",
+            "NewModal"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/FileUploader/List/Edit/AttachFile/index.tsx",
+        "components": [
+            "Button",
+            "Upload"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/GroupCard/index.tsx",
+        "components": [
+            "NewCard",
+            "Icon",
+            "Text",
+            "AvatarGroup",
+            "Avatar"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/LinkButton/index.jsx",
+        "components": [
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/ListMembers/index.tsx",
+        "components": [
+            "Icon",
+            "Text",
+            "AvatarGroup",
+            "Avatar"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/MarkDownContent/index.tsx",
+        "components": [
+            "Input",
+            "Text",
+            "MarkDown"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/NewIssue/Form/index.tsx",
+        "components": [
+            "Button",
+            "DropdownList",
+            "Loader",
+            "Banner",
+            "Input",
+            "Tags",
+            "Text",
+            "Attachments",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/NewIssue/Form/index.tsx",
+        "components": [
+            "TAttachment"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/NewIssue/Guidelines/index.tsx",
+        "components": [
+            "Icon",
+            "Text",
+            "Button",
+            "Paragraph",
+            "MarkDown"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/NewIssue/index.tsx",
+        "components": [
+            "Button",
+            "Text",
+            "Icon",
+            "Banner"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/NoData/index.tsx",
+        "components": [
+            "Text",
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/NoWorkspacesPage/index.tsx",
+        "components": [
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/Pagination/index.tsx",
+        "components": [
+            "ButtonGroup"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/PermissionMatrix/index.tsx",
+        "components": [
+            "Text",
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/PieGraph/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/ReportsPeriodDropdown/index.tsx",
+        "components": [
+            "Button",
+            "Dropdown"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/ReportsPeriodDropdown/index.tsx",
+        "components": [
+            "OptionType"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/ReportsPeriodDropdown/index.tsx",
+        "components": [
+            "IDropdownItemProps"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/SeverityIndicator/index.tsx",
+        "components": [
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/SeverityIndicator/index.tsx",
+        "components": [
+            "TIconName"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/SeverityIndicator/index.tsx",
+        "components": [
+            "TColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/StatBar/index.tsx",
+        "components": [
+            "TColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/StatBar/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/TestCaseImportRequestProgress/index.tsx",
+        "components": [
+            "Notification",
+            "NewModal"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/TestsExportRequestProgress/index.tsx",
+        "components": [
+            "Notification",
+            "NewModal"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/UtilizationGraph/Bar/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/components/UtilizationGraph/index.tsx",
+        "components": [
+            "TColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/hooks/EngagementReportTableHooks/useColumnsData.tsx",
+        "components": [
+            "TColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/hooks/EngagementReportTableHooks/useColumnsData.tsx",
+        "components": [
+            "Icon",
+            "Text",
+            "Avatar",
+            "Link"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/insights/components/Container/Container.tsx",
+        "components": [
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/insights/components/Container/HoursHeaderActions/index.tsx",
+        "components": [
+            "Button",
+            "NewRangePicker"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/insights/components/Container/HoursHeaderActions/index.tsx",
+        "components": [
+            "RangePickerInputProps"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/insights/components/HeaderBar/index.jsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/insights/components/HoursUtilizationContainer/HoursUtilizationContainer.tsx",
+        "components": [
+            "Banner",
+            "Loader",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/insights/components/HoursUtilizationContainer/WorkspaceActivity/WorkspaceActivityHeader/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/insights/components/HoursUtilizationContainer/WorkspaceActivity/index.tsx",
+        "components": [
+            "NewTableStatic"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/insights/components/Markdown/index.jsx",
+        "components": [
+            "MarkDown"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/layouts/Navigation/Global/Logo/index.tsx",
+        "components": [
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/layouts/Navigation/Global/MenuItem/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/layouts/Navigation/Global/Notifications/Notifications.tsx",
+        "components": [
+            "Avatar",
+            "Button",
+            "Icon",
+            "Loader",
+            "Popover",
+            "RelativeDate",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/layouts/Navigation/Global/UserMenu/index.jsx",
+        "components": [
+            "Avatar",
+            "Text",
+            "PopoverMenu",
+            "Icon",
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/layouts/Navigation/Global/index.tsx",
+        "components": [
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Dashboard/Container/Header/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Dashboard/Container/IssuesWidget/IssuesWidget.tsx",
+        "components": [
+            "Card",
+            "DashListItem",
+            "Link",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Dashboard/Container/PeopleWidget/PeopleWidget.tsx",
+        "components": [
+            "Avatar",
+            "Card",
+            "Link",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Dashboard/Container/PlansWidget/PlansWidget.tsx",
+        "components": [
+            "Card",
+            "DashListItem",
+            "Link",
+            "Text",
+            "RelativeDate"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Dashboard/Container/ReportsWidget/ReportsWidget.tsx",
+        "components": [
+            "Card",
+            "Link",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Dashboard/Container/RunsWidget/RunsWidget.tsx",
+        "components": [
+            "Avatar",
+            "Badge",
+            "Card",
+            "DashListItem",
+            "Icon",
+            "Link",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Dashboard/Container/RunsWidget/RunsWidget.tsx",
+        "components": [
+            "TBadgeColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Dashboard/Container/TagManagerTooltip/index.tsx",
+        "components": [
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Dashboard/Container/TestsWidget/TestsWidget.tsx",
+        "components": [
+            "Card",
+            "DashListItem",
+            "Link",
+            "Text",
+            "DotBadge"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Dashboard/Container/TestsWidget/TestsWidget.tsx",
+        "components": [
+            "TColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Dashboard/Container/TestsWidget/TestsWidget.tsx",
+        "components": [
+            "IDashListItemAttribute"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Engagement/Container/HoursUtilization/Reports/EngagementActivity/Activity/index.tsx",
+        "components": [
+            "NewTableStatic"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Engagement/Container/HoursUtilization/Reports/EngagementActivity/ActivityArchived/index.tsx",
+        "components": [
+            "NewTableStatic",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Engagement/Container/HoursUtilization/Reports/EngagementActivity/ActivitySummary/index.tsx",
+        "components": [
+            "Button",
+            "NewRangePicker",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Engagement/Container/HoursUtilization/Reports/EngagementActivity/ActivitySummary/index.tsx",
+        "components": [
+            "RangePickerInputProps"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Engagement/Container/HoursUtilization/Reports/EngagementActivity/ActivityTotals/index.tsx",
+        "components": [
+            "NewTableStatic",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Engagement/Container/HoursUtilization/Reports/EngagementActivity/EngagementActivityHeader/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Engagement/Container/HoursUtilization/Reports/Header/EngagementDropdown/index.tsx",
+        "components": [
+            "Avatar",
+            "Button",
+            "Dropdown"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Engagement/Container/HoursUtilization/Reports/Reports.tsx",
+        "components": [
+            "Banner"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Engagement/Container/HoursUtilization/Reports/index.tsx",
+        "components": [
+            "Loader",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/ArchiveModal/index.tsx",
+        "components": [
+            "ModalConfirm"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/AssignModal/index.tsx",
+        "components": [
+            "TRecord"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/AssignModal/index.tsx",
+        "components": [
+            "IData"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/AssignModal/index.tsx",
+        "components": [
+            "Modal",
+            "Text",
+            "Input",
+            "AvatarSelect",
+            "Select",
+            "DatePicker",
+            "TimePicker"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/Attachments/index.tsx",
+        "components": [
+            "Attachments",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/Attachments/index.tsx",
+        "components": [
+            "TAttachment"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/Comments/CommentList.js",
+        "components": [
+            "ModalConfirm",
+            "Avatar",
+            "MarkDown",
+            "Attachments"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/Comments/Editor.js",
+        "components": [
+            "Button",
+            "Attachments",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/Comments/index.jsx",
+        "components": [
+            "Avatar",
+            "RadioGroup",
+            "Badge"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/Details/Actions/ApproveModal/index.tsx",
+        "components": [
+            "Modal",
+            "Text",
+            "RadioGroup",
+            "Badge",
+            "Input"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/Details/Actions/CloseModal/index.tsx",
+        "components": [
+            "Modal",
+            "Text",
+            "RadioGroup",
+            "Popover",
+            "Input",
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/Details/Actions/index.tsx",
+        "components": [
+            "Button",
+            "Icon",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/Details/AffectedVersions/index.jsx",
+        "components": [
+            "Tags",
+            "Text",
+            "Chip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/Details/Assign/UnassignModal/index.tsx",
+        "components": [
+            "ModalConfirm",
+            "Text",
+            "Input"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/Details/Assign/index.tsx",
+        "components": [
+            "Icon",
+            "Avatar",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/Details/ChangeRequests/index.tsx",
+        "components": [
+            "Text",
+            "Icon",
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/Details/Devices/index.jsx",
+        "components": [
+            "InfoList",
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/Details/Features/index.jsx",
+        "components": [
+            "Text",
+            "Tags",
+            "Chip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/Details/Labels/index.jsx",
+        "components": [
+            "Tags",
+            "Text",
+            "Chip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/Details/Parameters/Integrations/Integrations.tsx",
+        "components": [
+            "Button",
+            "Icon",
+            "Tooltip",
+            "Skeleton"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/Details/Parameters/Run/index.tsx",
+        "components": [
+            "Button",
+            "DropdownList"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/Details/Parameters/Severity/index.tsx",
+        "components": [
+            "Button",
+            "DropdownList"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/Details/Tests/Tests.jsx",
+        "components": [
+            "InfoList"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/History/History.jsx",
+        "components": [
+            "Avatar"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/IssueLog/index.tsx",
+        "components": [
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/ReopenModal/index.tsx",
+        "components": [
+            "Modal",
+            "Text",
+            "Input"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/RequestImprovementsModal/index.tsx",
+        "components": [
+            "Modal",
+            "Text",
+            "Checkbox",
+            "Icon",
+            "Tooltip",
+            "Input",
+            "Avatar"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issue/TitleRow/index.jsx",
+        "components": [
+            "Icon",
+            "PopoverMenu",
+            "Input",
+            "Tooltip",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issues/Table/ApproveModal/index.tsx",
+        "components": [
+            "Modal",
+            "Text",
+            "Input"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issues/Table/Filters/Conditions/AddButton/ValueForm/OperatorOptions/index.tsx",
+        "components": [
+            "Select"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issues/Table/Filters/Conditions/AddButton/ValueForm/index.tsx",
+        "components": [
+            "RadioGroup",
+            "Button",
+            "DatePicker"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issues/Table/Filters/Conditions/AddButton/index.tsx",
+        "components": [
+            "Popover"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issues/Table/Filters/Conditions/Condition/index.tsx",
+        "components": [
+            "Chip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issues/Table/Filters/Conditions/index.tsx",
+        "components": [
+            "Chip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issues/Table/LabelModal/index.tsx",
+        "components": [
+            "Modal",
+            "Tags"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issues/Table/Segments/Title/index.tsx",
+        "components": [
+            "Button",
+            "Text",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issues/Table/SubMenu/index.tsx",
+        "components": [
+            "ContextualNavigation",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issues/Table/Table.jsx",
+        "components": [
+            "Button",
+            "Table",
+            "Text",
+            "Input"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issues/Table/TableHeaderAction/index.tsx",
+        "components": [
+            "Button",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issues/Table/TableHeaderAction/index.tsx",
+        "components": [
+            "IButtonProps",
+            "TButtonVariant"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Issues/Container/Issues/Table/TableHeaderAction/index.tsx",
+        "components": [
+            "TIconName"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Plans/Plans/List/NewButton/index.tsx",
+        "components": [
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Plans/Plans/Plan/Plan.jsx",
+        "components": [
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Plans/Plans/Plan/PlanDescription.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/ProjectSettings/Container/GeneralSettings/Archive/index.tsx",
+        "components": [
+            "Text",
+            "TextField",
+            "Button",
+            "NewModal",
+            "Banner",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/ProjectSettings/Container/GeneralSettings/Title/index.tsx",
+        "components": [
+            "Button",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/ProjectSettings/Container/GeneralSettings/ToggleTypeSetting/index.tsx",
+        "components": [
+            "Text",
+            "Switch"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/ProjectSettings/Container/GeneralSettings/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/ProjectSettings/Container/IntegrationsSettings/IntegrationCard/index.tsx",
+        "components": [
+            "Badge",
+            "Button",
+            "PopoverMenu",
+            "Icon",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/ProjectSettings/Container/IntegrationsSettings/IntegrationConfiguration/IntegrationConfiguration.tsx",
+        "components": [
+            "Loader",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/ProjectSettings/Container/IntegrationsSettings/IntegrationConfiguration/IntegrationConfigurationSteps/CancelStep/index.tsx",
+        "components": [
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/ProjectSettings/Container/IntegrationsSettings/IntegrationConfiguration/IntegrationConfigurationSteps/CompleteStep/index.tsx",
+        "components": [
+            "StepperContext",
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/ProjectSettings/Container/IntegrationsSettings/IntegrationConfiguration/IntegrationConfigurationSteps/JiraSteps/LabelStep/index.tsx",
+        "components": [
+            "Tags",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/ProjectSettings/Container/IntegrationsSettings/IntegrationConfiguration/IntegrationConfigurationSteps/JiraSteps/index.tsx",
+        "components": [
+            "Dropdown",
+            "TextField",
+            "Icon",
+            "Text",
+            "NewCheckbox",
+            "NewModal"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/ProjectSettings/Container/IntegrationsSettings/IntegrationConfiguration/IntegrationConfigurationSteps/NewConnectionCard/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/ProjectSettings/Container/IntegrationsSettings/IntegrationConfiguration/IntegrationConfigurationSteps/index.tsx",
+        "components": [
+            "Notification",
+            "Stepper"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/ProjectSettings/Container/IntegrationsSettings/NewIntegrationCard/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/ProjectSettings/Container/IntegrationsSettings/Title/index.tsx",
+        "components": [
+            "Button",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/ProjectSettings/Container/IntegrationsSettings/index.tsx",
+        "components": [
+            "NewModal",
+            "Loader",
+            "TextField",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/ProjectSettings/Container/SlackIntegrationSettings/Configuration/CreateForm/ChannelDropdown/index.tsx",
+        "components": [
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/ProjectSettings/Container/SlackIntegrationSettings/Configuration/CreateForm/index.tsx",
+        "components": [
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/ProjectSettings/Container/SlackIntegrationSettings/Configuration/DeleteButton/index.tsx",
+        "components": [
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/ProjectSettings/Container/SlackIntegrationSettings/Configuration/index.tsx",
+        "components": [
+            "Button",
+            "Loader"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/ProjectSettings/Container/SlackIntegrationSettings/Title/index.tsx",
+        "components": [
+            "Button",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/ProjectSettings/Container/SlackIntegrationSettings/index.tsx",
+        "components": [
+            "Button",
+            "Loader",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/ProjectSettings/Container/SubMenu/index.tsx",
+        "components": [
+            "ContextualNavigation",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/AsyncTaskProgess/index.tsx",
+        "components": [
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/BrowserstackResults/BrowserstackResult/BrowserstackResult.tsx",
+        "components": [
+            "Icon",
+            "Loader",
+            "Snackbar",
+            "Attachments",
+            "Tabs"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/BrowserstackResults/BrowserstackResult/DeviceState/Section/Row/index.tsx",
+        "components": [
+            "Icon",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/BrowserstackResults/BrowserstackResult/DeviceState/Section/index.tsx",
+        "components": [
+            "Avatar",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/BrowserstackResults/BrowserstackResult/DeviceState/Section/index.tsx",
+        "components": [
+            "TIconName"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/BrowserstackResults/BrowserstackResult/Issues/Issues.tsx",
+        "components": [
+            "Link",
+            "NewTableStatic",
+            "Tooltip",
+            "Loader",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/BrowserstackResults/BrowserstackResult/Issues/UserCell/index.tsx",
+        "components": [
+            "Avatar",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/BrowserstackResults/BrowserstackResult/Metadata/index.tsx",
+        "components": [
+            "Avatar",
+            "Badge",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/BrowserstackResults/BrowserstackResult/NoData/index.tsx",
+        "components": [
+            "Text",
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/BrowserstackResults/BrowserstackResult/Title/index.tsx",
+        "components": [
+            "Button",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/BrowserstackResults/List/BrowserstackResults.tsx",
+        "components": [
+            "Table",
+            "Badge",
+            "RelativeDate",
+            "Notification",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/BrowserstackResults/List/Title/index.tsx",
+        "components": [
+            "Button",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/BuildsList/index.tsx",
+        "components": [
+            "Link"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/HeadspinResults/HeadspinResult/DeviceState/Section/Row/index.tsx",
+        "components": [
+            "Icon",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/HeadspinResults/HeadspinResult/DeviceState/Section/index.tsx",
+        "components": [
+            "Avatar",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/HeadspinResults/HeadspinResult/DeviceState/Section/index.tsx",
+        "components": [
+            "TIconName"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/HeadspinResults/HeadspinResult/HeadspinResult.tsx",
+        "components": [
+            "Icon",
+            "Loader",
+            "Snackbar",
+            "Attachments",
+            "Tabs"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/HeadspinResults/HeadspinResult/Issues/Issues.tsx",
+        "components": [
+            "Link",
+            "NewTableStatic",
+            "Tooltip",
+            "Loader",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/HeadspinResults/HeadspinResult/Issues/UserCell/index.tsx",
+        "components": [
+            "Avatar",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/HeadspinResults/HeadspinResult/Metadata/index.tsx",
+        "components": [
+            "Avatar",
+            "Badge",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/HeadspinResults/HeadspinResult/NoData/index.tsx",
+        "components": [
+            "Text",
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/HeadspinResults/HeadspinResult/Title/index.tsx",
+        "components": [
+            "Button",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/HeadspinResults/List/HeadspinResults.tsx",
+        "components": [
+            "Table",
+            "Badge",
+            "RelativeDate",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/HeadspinResults/List/Title/index.tsx",
+        "components": [
+            "Button",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/List/ColumnsRenderers/index.test.tsx",
+        "components": [
+            "RelativeDate"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/List/ColumnsRenderers/index.tsx",
+        "components": [
+            "Text",
+            "RelativeDate",
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/List/ColumnsRenderers/index.tsx",
+        "components": [
+            "TIconName"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/List/Runs.tsx",
+        "components": [
+            "TTableSortDirection"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/List/Runs.tsx",
+        "components": [
+            "Table",
+            "Icon",
+            "Link"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/List/Title/index.tsx",
+        "components": [
+            "Text",
+            "Button",
+            "Notification",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/NewRunButton/index.tsx",
+        "components": [
+            "Button",
+            "Dropdown",
+            "Icon",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/NewRunButton/index.tsx",
+        "components": [
+            "TIconName"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/NewRunButton/index.tsx",
+        "components": [
+            "IDropdownItemProps"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/OutOfSyncPlans/OutOfSyncPlans.jsx",
+        "components": [
+            "Modal",
+            "Text",
+            "Snackbar",
+            "NewTooltip",
+            "Button",
+            "Banner"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/AddPlanModal/AddPlanModal.tsx",
+        "components": [
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/AssignBuildModal/AssignBuildModal.tsx",
+        "components": [
+            "Modal",
+            "Tabs"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/AssignBuildModal/BuildsTable.tsx",
+        "components": [
+            "Table",
+            "RelativeDate",
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/AssignBuildModal/Sidebar.tsx",
+        "components": [
+            "Text",
+            "Input",
+            "RelativeDate",
+            "Avatar",
+            "Tags",
+            "Link",
+            "DropdownList",
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/AssignBuildModal/Sidebar.tsx",
+        "components": [
+            "TDataObject"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/AssignBuildModal/Upload/index.tsx",
+        "components": [
+            "Button",
+            "Text",
+            "Input",
+            "PantheraUpload",
+            "Snackbar"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/AssignDevicesModal/AssignDevicesModal.tsx",
+        "components": [
+            "Modal",
+            "Text",
+            "ContextualNavigation"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/AssignDevicesModal/DevicePoolFilters/DevicePoolFilters.tsx",
+        "components": [
+            "Loader"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/AssignDevicesModal/DevicePoolFilters/Filter/ConditionSelect/ConditionSelect.tsx",
+        "components": [
+            "TDataObject"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/AssignDevicesModal/DevicePoolFilters/Filter/ConditionSelect/ConditionSelect.tsx",
+        "components": [
+            "Button",
+            "DropdownList"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/AssignDevicesModal/DevicePoolFilters/Filter/PlatformSelect/FamilySelect.tsx",
+        "components": [
+            "Select"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/AssignDevicesModal/DevicePoolFilters/Filter/PlatformSelect/PlatformSelect.tsx",
+        "components": [
+            "Button",
+            "Link",
+            "Popover",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/AssignDevicesModal/DevicePoolFilters/Filter/PlatformSelect/ReleaseSelect.tsx",
+        "components": [
+            "Select"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/AssignDevicesModal/DevicePoolFilters/Filter/PlatformSelect/VersionSelect.tsx",
+        "components": [
+            "Select"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/AssignDevicesModal/DevicePoolFilters/Filter/Tag/index.tsx",
+        "components": [
+            "Button",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/AssignDevicesModal/DevicePoolFilters/Filter/index.tsx",
+        "components": [
+            "Button",
+            "PopoverMenu",
+            "Icon",
+            "ButtonGroup"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/AssignDevicesModal/DevicePreview/Category/index.tsx",
+        "components": [
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/AssignDevicesModal/DevicePreview/DevicePreview.tsx",
+        "components": [
+            "Avatar",
+            "Input",
+            "Table",
+            "Text",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/AssignDevicesModal/SavePoolModal/index.tsx",
+        "components": [
+            "Button",
+            "Input",
+            "Modal"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/AssignDevicesModal/Spacer/index.tsx",
+        "components": [
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/AssignPeopleModal/AssignPeopleModal.tsx",
+        "components": [
+            "Modal",
+            "Table",
+            "Avatar",
+            "Text",
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/AssignPeopleModal/Header/Header.tsx",
+        "components": [
+            "Text",
+            "Select"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/AssignmentMenu/index.tsx",
+        "components": [
+            "PopoverMenu",
+            "Icon",
+            "Text",
+            "Button",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Assignments/Assignments.tsx",
+        "components": [
+            "Button",
+            "Text",
+            "Icon",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Assignments/AsyncAssignments/AsyncAssignments.tsx",
+        "components": [
+            "Button",
+            "Text",
+            "Icon",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Assignments/AsyncAssignments/AsyncAssignmentsTaskProgress/index.tsx",
+        "components": [
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Assignments/List/Delete/index.tsx",
+        "components": [
+            "Button",
+            "ModalConfirm",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Assignments/List/Details/Builds/Remove.tsx",
+        "components": [
+            "Button",
+            "ModalConfirm",
+            "Snackbar",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Assignments/List/Details/Builds/index.tsx",
+        "components": [
+            "RelativeDate",
+            "Table",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Assignments/List/Details/Feedback/Feedback.tsx",
+        "components": [
+            "Avatar",
+            "Table",
+            "Text",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Assignments/List/Details/Jobs/ActionsMenu/Remove/index.tsx",
+        "components": [
+            "NewModal",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Assignments/List/Details/Jobs/ActionsMenu/Settings/index.tsx",
+        "components": [
+            "Banner",
+            "Button",
+            "DropdownList",
+            "NewModal",
+            "Notification",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Assignments/List/Details/Jobs/ActionsMenu/index.tsx",
+        "components": [
+            "Button",
+            "Icon",
+            "PopoverMenu"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Assignments/List/Details/Jobs/AllocationLog/Executors/Executors.tsx",
+        "components": [
+            "Icon",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Assignments/List/Details/Jobs/AllocationLog/index.tsx",
+        "components": [
+            "Button",
+            "Popover",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Assignments/List/Details/Jobs/Device/Device.tsx",
+        "components": [
+            "Icon",
+            "Skeleton",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Assignments/List/Details/Jobs/Device/Device.tsx",
+        "components": [
+            "TIconName"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Assignments/List/Details/Jobs/Device/index.tsx",
+        "components": [
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Assignments/List/Details/Jobs/Jobs.tsx",
+        "components": [
+            "Table",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Assignments/List/Details/Jobs/Pool/index.tsx",
+        "components": [
+            "Text",
+            "Popover",
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Assignments/List/Details/Jobs/Status/index.tsx",
+        "components": [
+            "TColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Assignments/List/Details/Jobs/Status/index.tsx",
+        "components": [
+            "DotBadge",
+            "Text",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Assignments/List/Details/Jobs/Tester/Tester.tsx",
+        "components": [
+            "Avatar",
+            "Skeleton",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Assignments/List/Details/Tests/Tests.tsx",
+        "components": [
+            "Avatar",
+            "DotBadge",
+            "Icon",
+            "Skeleton",
+            "Table",
+            "Text",
+            "Tooltip",
+            "Attachments",
+            "Popover"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Assignments/List/index.tsx",
+        "components": [
+            "IExpanderProps",
+            "TTableSortDirection"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Assignments/List/index.tsx",
+        "components": [
+            "TIssueSeverity"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Assignments/List/index.tsx",
+        "components": [
+            "Button",
+            "Table",
+            "Text",
+            "Icon",
+            "IssuesCount",
+            "Tooltip",
+            "Skeleton"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/AuditBy/index.tsx",
+        "components": [
+            "Avatar",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/DuplicateRunButton/index.tsx",
+        "components": [
+            "Button",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/OTTDemoResults/PlansDrawerContent/index.tsx",
+        "components": [
+            "NewTableStatic",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/OTTDemoResults/PlansTitle/index.tsx",
+        "components": [
+            "Button",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/OTTDemoResults/ResultLogs/index.tsx",
+        "components": [
+            "Tabs"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/OTTDemoResults/index.tsx",
+        "components": [
+            "NewTableStatic"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Results/Data/Configuration/Section/Row/index.tsx",
+        "components": [
+            "Icon",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Results/Data/Configuration/Section/index.tsx",
+        "components": [
+            "Avatar",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Results/Data/Configuration/Section/index.tsx",
+        "components": [
+            "TIconName"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Results/Data/Issues/IntegrationLinkCell/index.tsx",
+        "components": [
+            "Link",
+            "Skeleton",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Results/Data/Issues/UserCell/index.tsx",
+        "components": [
+            "Avatar",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Results/Data/Issues/index.tsx",
+        "components": [
+            "Link",
+            "NewTableStatic",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Results/Data/NoData/index.tsx",
+        "components": [
+            "Text",
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Results/Data/Screenshots/index.tsx",
+        "components": [
+            "Loader"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Results/Data/TestingSubjects/Files/index.tsx",
+        "components": [
+            "FilePreviewModal",
+            "Loader",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Results/Data/TestingSubjects/Plans/index.tsx",
+        "components": [
+            "Banner",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Results/Data/TestingSubjects/PlansTitle/index.tsx",
+        "components": [
+            "Button",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Results/Data/TestingSubjects/StatusIcon/index.tsx",
+        "components": [
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Results/Data/TestingSubjects/Tests/AutomatedTestReportDetails/AutomatedTestLabels/index.tsx",
+        "components": [
+            "Button",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Results/Data/TestingSubjects/Tests/AutomatedTestReportDetails/AutomatedTestReportDetailsHeader/index.tsx",
+        "components": [
+            "Button",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Results/Data/TestingSubjects/Tests/AutomatedTestReportDetails/ErrorMessage/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Results/Data/TestingSubjects/Tests/AutomatedTestReportDetails/index.tsx",
+        "components": [
+            "Loader"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Results/Data/TestingSubjects/Tests/index.tsx",
+        "components": [
+            "Loader",
+            "NewTableStatic"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Results/Data/TestingSubjects/index.tsx",
+        "components": [
+            "NewTableStatic"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Results/Data/index.tsx",
+        "components": [
+            "Banner",
+            "Tabs"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Results/Data/shared/ScreenshotsGroupPreview/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Results/Data/shared/ScreenshotsPreview/index.tsx",
+        "components": [
+            "FilePreviewModal"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Results/ScheduleStatus/index.tsx",
+        "components": [
+            "Avatar",
+            "Badge",
+            "Skeleton",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Results/index.tsx",
+        "components": [
+            "Loader"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Results/interfaces.ts",
+        "components": [
+            "TColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/ChooseYourApplication/BuildSection/index.tsx",
+        "components": [
+            "Notification",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/ChooseYourApplication/index.tsx",
+        "components": [
+            "ButtonGroup",
+            "Loader"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/ConfigureYourTests/CalabashForm/index.tsx",
+        "components": [
+            "Icon",
+            "TextField"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/ConfigureYourTests/ExplorerForm/index.tsx",
+        "components": [
+            "Icon",
+            "TextField"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/ConfigureYourTests/FuzzyForm/index.tsx",
+        "components": [
+            "Icon",
+            "TextField",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/ConfigureYourTests/TestTypeDropdown/index.tsx",
+        "components": [
+            "Dropdown",
+            "TextField"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/ConfigureYourTests/UIAutomatorForm/index.tsx",
+        "components": [
+            "Icon",
+            "TextField"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/ConfigureYourTests/UploadSection/AssignAttachmentsModal/AssignAttachmentsModal.tsx",
+        "components": [
+            "NewModal"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/ConfigureYourTests/UploadSection/AssignAttachmentsModal/AttachmentsTable/index.tsx",
+        "components": [
+            "NewTableStatic",
+            "RelativeDate"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/ConfigureYourTests/UploadSection/AssignAttachmentsModal/Sidebar/DetailRow/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/ConfigureYourTests/UploadSection/AssignAttachmentsModal/Sidebar/index.tsx",
+        "components": [
+            "Link",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/ConfigureYourTests/UploadSection/TestPackageUploader/index.tsx",
+        "components": [
+            "Text",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/ConfigureYourTests/UploadSection/TestSpecUploader/index.tsx",
+        "components": [
+            "Notification",
+            "NewRadio",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/ConfigureYourTests/index.tsx",
+        "components": [
+            "NewCheckbox",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/OttDemoSteps/ChooseYourApplication/BuildSection/index.tsx",
+        "components": [
+            "Notification",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/OttDemoSteps/ChooseYourApplication/index.tsx",
+        "components": [
+            "ButtonGroup",
+            "Loader"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/OttDemoSteps/SelectDevices/index.tsx",
+        "components": [
+            "Icon",
+            "Text",
+            "NewTableStatic"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/OttDemoSteps/SelectDevices/index.tsx",
+        "components": [
+            "TIconName"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/OttDemoSteps/SelectDevices/index.tsx",
+        "components": [
+            "TColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/OttDemoSteps/SelectDevices/index.tsx",
+        "components": [
+            "TTypographyColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/OttDemoSteps/index.tsx",
+        "components": [
+            "Stepper"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/ReviewAndStart/index.tsx",
+        "components": [
+            "Button",
+            "StepperContext",
+            "Text",
+            "TextField",
+            "Link"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/SelectBrowsers/index.tsx",
+        "components": [
+            "Text",
+            "NewTableStatic",
+            "StepperContext",
+            "Button",
+            "Loader"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/SelectDevices/index.tsx",
+        "components": [
+            "Icon",
+            "Text",
+            "NewTableStatic",
+            "Loader"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/SelectDevices/index.tsx",
+        "components": [
+            "TIconName"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/SelectDevices/index.tsx",
+        "components": [
+            "TColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/SelectDevices/index.tsx",
+        "components": [
+            "TTypographyColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/SpecifyDeviceState/DeviceLocale/index.tsx",
+        "components": [
+            "OptionType"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/SpecifyDeviceState/DeviceLocale/index.tsx",
+        "components": [
+            "IDropdownItemProps"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/SpecifyDeviceState/DeviceLocation/index.tsx",
+        "components": [
+            "TextField"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/SpecifyDeviceState/DeviceStateDropdown/index.tsx",
+        "components": [
+            "Button",
+            "Dropdown"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/SpecifyDeviceState/DeviceStateDropdown/index.tsx",
+        "components": [
+            "OptionType"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/SpecifyDeviceState/DeviceStateDropdown/index.tsx",
+        "components": [
+            "IDropdownItemProps"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/SpecifyDeviceState/FilePaths/FilePathInput/index.tsx",
+        "components": [
+            "Icon",
+            "TextField",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/SpecifyDeviceState/NetworkProfile/index.tsx",
+        "components": [
+            "OptionType"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/SpecifyDeviceState/NetworkProfile/index.tsx",
+        "components": [
+            "IDropdownItemProps"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/SpecifyDeviceState/RadioStates/index.tsx",
+        "components": [
+            "NewCheckbox",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/SpecifyDeviceState/Section/index.tsx",
+        "components": [
+            "Icon",
+            "Text",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/SpecifyDeviceState/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/index.tsx",
+        "components": [
+            "Stepper"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/shared/CompleteStep/index.tsx",
+        "components": [
+            "Button",
+            "StepperContext"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/shared/FilePreview/DetailRow/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/shared/FilePreview/index.tsx",
+        "components": [
+            "Button",
+            "Icon",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/shared/FilePreview/index.tsx",
+        "components": [
+            "TIconName"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/shared/InlinePreview/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Steps/shared/UploadButtonsForm/index.tsx",
+        "components": [
+            "Button",
+            "Text",
+            "Upload"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/TestSuiteSteps/index.tsx",
+        "components": [
+            "Text",
+            "Icon",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Title/ActionsMenu/index.tsx",
+        "components": [
+            "Button",
+            "NewModal",
+            "Notification",
+            "Text",
+            "Tooltip",
+            "PopoverMenu",
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Title/StartRun/index.tsx",
+        "components": [
+            "Banner",
+            "Button",
+            "NewModal",
+            "Notification",
+            "Text",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/Title/index.tsx",
+        "components": [
+            "Button",
+            "Input",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Automated/index.tsx",
+        "components": [
+            "Loader"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Configuration/Configuration.tsx",
+        "components": [
+            "TDataObject"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Configuration/Configuration.tsx",
+        "components": [
+            "Button",
+            "DropdownList",
+            "Modal",
+            "Snackbar",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Details/DateRange/index.tsx",
+        "components": [
+            "RangePicker"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Details/Note/index.tsx",
+        "components": [
+            "TextAreaModal"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Details/TestLead/TestLead.tsx",
+        "components": [
+            "Avatar",
+            "AvatarSelect",
+            "Modal",
+            "RelativeDate",
+            "Select",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Details/index.tsx",
+        "components": [
+            "Icon",
+            "Text",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Details/index.tsx",
+        "components": [
+            "TIconName"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Issues/index.tsx",
+        "components": [
+            "TTableSortDirection"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Issues/index.tsx",
+        "components": [
+            "TBadgeColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Issues/index.tsx",
+        "components": [
+            "Table",
+            "Text",
+            "Icon",
+            "Skeleton",
+            "Badge",
+            "Avatar",
+            "Tooltip",
+            "Link"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Run.tsx",
+        "components": [
+            "Icon",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Title/DuplicateModal/index.tsx",
+        "components": [
+            "Modal",
+            "Checkbox",
+            "Text",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Title/Finish/index.tsx",
+        "components": [
+            "Button",
+            "NewModal",
+            "Snackbar",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Title/History/Event/Data/jobExecutor.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Title/History/Event/Data/run.tsx",
+        "components": [
+            "Text",
+            "Link"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Title/History/Event/Render/actionMessage.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Title/History/Event/Render/diff.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Title/History/Event/Render/diffMultipleContent.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Title/History/Event/Render/diffWithLabel.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Title/History/Event/components/PlanDetails/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Title/History/Event/index.tsx",
+        "components": [
+            "Avatar",
+            "RelativeDate",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Title/History/NoData/index.tsx",
+        "components": [
+            "Text",
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Title/History/index.tsx",
+        "components": [
+            "Loader"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Title/Schedule/index.tsx",
+        "components": [
+            "Button",
+            "ModalConfirm",
+            "Tooltip",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Title/SettingsModal/AffectedBuildVersions/index.tsx",
+        "components": [
+            "Icon",
+            "Loader",
+            "NewTooltip",
+            "Text",
+            "TextField"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Title/SettingsModal/index.tsx",
+        "components": [
+            "Banner",
+            "Button",
+            "DropdownList",
+            "NewModal",
+            "Notification",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Run/Title/index.tsx",
+        "components": [
+            "Button",
+            "Input",
+            "PopoverMenu",
+            "Icon",
+            "Text",
+            "Notification",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Sessions/List/Sessions.tsx",
+        "components": [
+            "Icon",
+            "Table"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Sessions/List/Sessions.tsx",
+        "components": [
+            "TTableSortDirection"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Sessions/List/Title/index.tsx",
+        "components": [
+            "Button",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Sessions/Session/Events/index.tsx",
+        "components": [
+            "EventList",
+            "Snackbar"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Sessions/Session/Info/index.tsx",
+        "components": [
+            "TIconName"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Sessions/Session/Info/index.tsx",
+        "components": [
+            "Avatar",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Sessions/Session/Issues/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Sessions/Session/ProfileGraph/ProfileSeries.tsx",
+        "components": [
+            "Series"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Sessions/Session/ProfileGraph/index.tsx",
+        "components": [
+            "Loader",
+            "ProfilerCharts",
+            "Snackbar",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Sessions/Session/Section/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Sessions/Session/Session.tsx",
+        "components": [
+            "Icon",
+            "Loader",
+            "Snackbar"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Sessions/Session/Title/index.tsx",
+        "components": [
+            "Button",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/StatusBadge/index.tsx",
+        "components": [
+            "Badge"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Runs/Container/Submenu/index.jsx",
+        "components": [
+            "ContextualNavigation",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/BuildNetworkGroup/BuildNetworkGroup.tsx",
+        "components": [
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/BuildNetworkGroup/CreateGroupModal/index.tsx",
+        "components": [
+            "Input",
+            "NewModal"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/BuildNetworkGroup/DeviceModal/index.tsx",
+        "components": [
+            "Modal",
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/BuildNetworkGroup/NetworkGroupPreview/NetworkGroupPreview.tsx",
+        "components": [
+            "NumberPicker",
+            "Button",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/ChangeRole/ChangeRole.tsx",
+        "components": [
+            "Loader"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/ChangeRole/Roles/index.tsx",
+        "components": [
+            "Text",
+            "RadioGroup",
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/ChangeRole/Title/index.tsx",
+        "components": [
+            "Button",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/Actions/CustomColumnDropdown/index.tsx",
+        "components": [
+            "Button",
+            "Dropdown"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/Actions/index.tsx",
+        "components": [
+            "TRecord"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/Actions/index.tsx",
+        "components": [
+            "Select",
+            "Input",
+            "ButtonGroup",
+            "Text",
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/DevicesFilter/DevicesList/Device/index.tsx",
+        "components": [
+            "Text",
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/DevicesFilter/Filter/ConditionSelect/ConditionSelect.tsx",
+        "components": [
+            "OptionType"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/DevicesFilter/Filter/ConditionSelect/ConditionSelect.tsx",
+        "components": [
+            "Text",
+            "Dropdown",
+            "TextField"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/DevicesFilter/Filter/PlatformSelect/FamilySelect.tsx",
+        "components": [
+            "OptionType"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/DevicesFilter/Filter/PlatformSelect/FamilySelect.tsx",
+        "components": [
+            "Dropdown",
+            "TextField"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/DevicesFilter/Filter/PlatformSelect/PlatformSelect.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/DevicesFilter/Filter/PlatformSelect/ReleaseSelect.tsx",
+        "components": [
+            "Select"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/DevicesFilter/Filter/PlatformSelect/VersionSelect.tsx",
+        "components": [
+            "Select"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/DevicesFilter/index.tsx",
+        "components": [
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/EditableGroupFilters/LocationFilter/index.tsx",
+        "components": [
+            "Filter"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/EditableGroupFilters/LocationFilter/index.tsx",
+        "components": [
+            "IButtonProps"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/EditableGroupFilters/LocationFilter/index.tsx",
+        "components": [
+            "FilterOptions"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/EditableGroupFilters/index.tsx",
+        "components": [
+            "NumberPicker",
+            "Text",
+            "Filter",
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/EditableGroupFilters/index.tsx",
+        "components": [
+            "IDropdownItemProps"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/EditableGroupFilters/index.tsx",
+        "components": [
+            "IFilterProps"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/GroupUpdate/index.tsx",
+        "components": [
+            "Banner",
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/Invite/InviteRoles/index.tsx",
+        "components": [
+            "Text",
+            "RadioGroup"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/Invite/InviteUsers/index.tsx",
+        "components": [
+            "Text",
+            "Input"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/Invite/index.tsx",
+        "components": [
+            "Loader",
+            "Button",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/PreviewGroupFilters/FilterChips/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/Submenu/SubMenu.tsx",
+        "components": [
+            "Banner",
+            "ContextualNavigation",
+            "ModalConfirm",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/TesterDetails/ProfileTabs/About/FieldWithList/index.tsx",
+        "components": [
+            "Icon",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/TesterDetails/ProfileTabs/About/FieldWithList/index.tsx",
+        "components": [
+            "TIconName"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/TesterDetails/ProfileTabs/About/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/TesterDetails/ProfileTabs/About/index.tsx",
+        "components": [
+            "TIconName"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/TesterDetails/ProfileTabs/Availability/AwaySchedule/index.tsx",
+        "components": [
+            "Text",
+            "Table"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/TesterDetails/ProfileTabs/Availability/index.tsx",
+        "components": [
+            "Text",
+            "Table"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/TesterDetails/ProfileTabs/Details/PayRates/index.tsx",
+        "components": [
+            "Text",
+            "Tooltip",
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/TesterDetails/ProfileTabs/Details/WorkspaceCharts/index.tsx",
+        "components": [
+            "Text",
+            "RatingCharts"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/TesterDetails/ProfileTabs/Details/index.tsx",
+        "components": [
+            "Label",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/TesterDetails/ProfileTabs/Devices/DeviceCategory/index.tsx",
+        "components": [
+            "Icon",
+            "Table",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/TesterDetails/ProfileTabs/Devices/DeviceCategory/index.tsx",
+        "components": [
+            "TIconName"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/TesterDetails/ProfileTabs/index.tsx",
+        "components": [
+            "Icon",
+            "Tabs"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/TesterDetails/ProfileTabs/index.tsx",
+        "components": [
+            "TColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/TesterDetails/Sidebar/Avatar/index.tsx",
+        "components": [
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/TesterDetails/Sidebar/index.tsx",
+        "components": [
+            "Text",
+            "Icon",
+            "Button",
+            "Badge"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/TesterDetails/index.tsx",
+        "components": [
+            "Button",
+            "Icon",
+            "Banner",
+            "RatingCharts",
+            "Loader"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/TestersTable/Columns/BasicColumn.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/TestersTable/Columns/NameColumn.tsx",
+        "components": [
+            "Avatar",
+            "Badge",
+            "Icon",
+            "Popover",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/TestersTable/index.tsx",
+        "components": [
+            "NewTableStatic",
+            "Avatar",
+            "Text",
+            "Button",
+            "PopoverMenu",
+            "NewTooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/Title/index.tsx",
+        "components": [
+            "Button",
+            "Text",
+            "TextField"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/UpdateGroupDrawer/DeviceDrawer/index.tsx",
+        "components": [
+            "Button",
+            "Icon",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Components/UpdateGroupDrawer/index.tsx",
+        "components": [
+            "Button",
+            "Icon",
+            "Loader",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Dashboard/Dashboard.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Dashboard/GroupList/GroupCard/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Dashboard/GroupList/index.tsx",
+        "components": [
+            "Text",
+            "Icon",
+            "NewCard",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/DefaultMembersView/DefaultMembersView.tsx",
+        "components": [
+            "TRecord"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/DefaultMembersView/DefaultMembersView.tsx",
+        "components": [
+            "Loader",
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/DefaultMembersView/UsersTable/index.tsx",
+        "components": [
+            "Table",
+            "Avatar",
+            "Text",
+            "RelativeDate",
+            "Badge",
+            "PopoverMenu",
+            "Button",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Group/Group.tsx",
+        "components": [
+            "Loader",
+            "Button",
+            "Text",
+            "NumberPicker",
+            "Banner",
+            "Dropdown",
+            "Icon",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Group/useGetGroupByGuid.ts",
+        "components": [
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/NetworkMembersView/NetworkMembersView.tsx",
+        "components": [
+            "TRecord"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/NetworkMembersView/NetworkMembersView.tsx",
+        "components": [
+            "Loader"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/RemoveFromGroupModal/index.tsx",
+        "components": [
+            "NewModal",
+            "Label",
+            "TextField",
+            "Loader",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/RevokeAccessModal/index.tsx",
+        "components": [
+            "ModalConfirm",
+            "Paragraph"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/SearchMembersView/AddToGroupModal/index.tsx",
+        "components": [
+            "NewModal",
+            "Label",
+            "TextField",
+            "Loader",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/SearchMembersView/SearchMembersView.tsx",
+        "components": [
+            "Button",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/SearchMembersView/TesterSearchResults/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Segment/DevicePoolFilters/DevicePoolFilters.tsx",
+        "components": [
+            "Loader"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Segment/DevicePoolFilters/Filter/ConditionSelect/ConditionSelect.tsx",
+        "components": [
+            "TDataObject"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Segment/DevicePoolFilters/Filter/ConditionSelect/ConditionSelect.tsx",
+        "components": [
+            "Button",
+            "DropdownList"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Segment/DevicePoolFilters/Filter/PlatformSelect/FamilySelect.tsx",
+        "components": [
+            "Select"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Segment/DevicePoolFilters/Filter/PlatformSelect/PlatformSelect.tsx",
+        "components": [
+            "Button",
+            "Link",
+            "Popover",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Segment/DevicePoolFilters/Filter/PlatformSelect/ReleaseSelect.tsx",
+        "components": [
+            "Select"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Segment/DevicePoolFilters/Filter/PlatformSelect/VersionSelect.tsx",
+        "components": [
+            "Select"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Segment/DevicePoolFilters/Filter/Save/index.tsx",
+        "components": [
+            "Button",
+            "Icon",
+            "PopoverMenu",
+            "Text",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Segment/DevicePoolFilters/Filter/Tag/index.tsx",
+        "components": [
+            "Button",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Segment/DevicePreview/Category/index.tsx",
+        "components": [
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Segment/DevicePreview/DevicePreview.tsx",
+        "components": [
+            "Avatar",
+            "Icon",
+            "Table",
+            "Text",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Segment/SaveModal/CreateSegment/index.tsx",
+        "components": [
+            "Input",
+            "ModalConfirm"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Segment/SaveModal/UpdateSegment/index.tsx",
+        "components": [
+            "Banner",
+            "ModalConfirm"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/Segment/Title/index.tsx",
+        "components": [
+            "Button",
+            "Input",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/TaskAssignModal/Assignee/index.tsx",
+        "components": [
+            "Text",
+            "TextField",
+            "Avatar"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/TaskAssignModal/TaskDate/index.tsx",
+        "components": [
+            "NewDatePicker",
+            "TextField"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/TaskAssignModal/TaskDate/index.tsx",
+        "components": [
+            "NewDatePickerInputProps"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/TaskAssignModal/TaskTime/index.tsx",
+        "components": [
+            "TextField",
+            "Dropdown"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/TaskAssignModal/TaskTime/index.tsx",
+        "components": [
+            "IDropdownItemProps"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/TaskAssignModal/TaskType/index.tsx",
+        "components": [
+            "TextField",
+            "Dropdown"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/TaskAssignModal/TaskType/index.tsx",
+        "components": [
+            "IDropdownItemProps"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/TaskAssignModal/TaskType/index.tsx",
+        "components": [
+            "TColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/TaskAssignModal/TimeEstimate/index.tsx",
+        "components": [
+            "TextField",
+            "Dropdown"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/TaskAssignModal/TimeEstimate/index.tsx",
+        "components": [
+            "IDropdownItemProps"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/TaskAssignModal/index.tsx",
+        "components": [
+            "NewModal",
+            "Text",
+            "Notification",
+            "TextField"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/TaskAssignModal/taskTypeOptions.tsx",
+        "components": [
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/TaskAssignModal/taskTypeOptions.tsx",
+        "components": [
+            "TColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/Container/TaskAssignModal/taskTypeOptions.tsx",
+        "components": [
+            "OptionType"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Teams/tasks.ts",
+        "components": [
+            "TColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/SubMenu/index.jsx",
+        "components": [
+            "ContextualNavigation",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCase/Details/JiraRelations/JiraRelations.tsx",
+        "components": [
+            "InfoList",
+            "Skeleton",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCase/Details/Parameters/AutomatedSelect/index.tsx",
+        "components": [
+            "DropdownList",
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCase/Details/Parameters/ExecutionTime/index.jsx",
+        "components": [
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCase/Details/Parameters/PrioritySelect/index.tsx",
+        "components": [
+            "DropdownList",
+            "Button",
+            "Icon",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCase/Details/Parameters/PriorityText/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCase/Details/Parameters/usePrioritiesMap.tsx",
+        "components": [
+            "TTypographyColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCase/Details/index.jsx",
+        "components": [
+            "InfoList",
+            "Icon",
+            "DotBadge",
+            "Popover"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCase/Steps/Wrapper/Header.jsx",
+        "components": [
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCase/Steps/Wrapper/Step/Attachments/index.tsx",
+        "components": [
+            "TAttachment"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCase/Steps/Wrapper/Step/Attachments/index.tsx",
+        "components": [
+            "PantheraAttachments",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCase/Steps/Wrapper/Step/FeedbackPopover/index.tsx",
+        "components": [
+            "Avatar",
+            "Icon",
+            "Popover",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCase/Steps/index.jsx",
+        "components": [
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCase/TitleRow/index.jsx",
+        "components": [
+            "PantheraIcon",
+            "Input",
+            "PantheraNotification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCase/index.jsx",
+        "components": [
+            "PantheraNotification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCases/AddToPlanButton/index.jsx",
+        "components": [
+            "Button",
+            "Icon",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCases/List/Header/index.jsx",
+        "components": [
+            "PantheraIcon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCases/List/index.jsx",
+        "components": [
+            "CheckableList",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCases/Table/Header/index.tsx",
+        "components": [
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCases/Table/Segments/Filters/SaveButton/index.jsx",
+        "components": [
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCases/Table/Segments/ImportButton/ModalContent/SeparatorDropdown/index.tsx",
+        "components": [
+            "TextField",
+            "Dropdown"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCases/Table/Segments/ImportButton/ModalContent/SeparatorDropdown/index.tsx",
+        "components": [
+            "IDropdownItemProps"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCases/Table/Segments/ImportButton/ModalContent/index.tsx",
+        "components": [
+            "Banner",
+            "Link",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCases/Table/Segments/ImportButton/index.tsx",
+        "components": [
+            "Button",
+            "NewModal"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCases/Table/Segments/NewButton/index.jsx",
+        "components": [
+            "Icon",
+            "Button",
+            "Tooltip"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCases/Table/Segments/index.jsx",
+        "components": [
+            "TextField"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/TestCases/Container/TestCases/Table/index.jsx",
+        "components": [
+            "Loader",
+            "Table",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/Header/index.tsx",
+        "components": [
+            "Icon",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/Header/index.tsx",
+        "components": [
+            "TTypographyColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/History/DataLoading/index.tsx",
+        "components": [
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/History/HistoryDay/HoursSummary/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/History/HistoryDay/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/History/HistoryRow/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/History/NoData/index.tsx",
+        "components": [
+            "Text",
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/History/index.tsx",
+        "components": [
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/Submit/SubmitForUserFields/SubmitFor/index.tsx",
+        "components": [
+            "Dropdown",
+            "TextField",
+            "Text",
+            "Avatar"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/Submit/SubmitForUserFields/SubmitFor/index.tsx",
+        "components": [
+            "IDropdownItemProps"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/Submit/SubmitForUserFields/TaskDate/index.tsx",
+        "components": [
+            "NewDatePicker",
+            "Text",
+            "TextField"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/Submit/SubmitForUserFields/TaskDate/index.tsx",
+        "components": [
+            "NewDatePickerInputProps"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/Submit/SubmitForUserFields/index.tsx",
+        "components": [
+            "Icon",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/Submit/Summary/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/Submit/Task/index.tsx",
+        "components": [
+            "Text",
+            "TextField",
+            "Button",
+            "NewModal",
+            "Dropdown"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/Submit/Task/index.tsx",
+        "components": [
+            "IDropdownItemProps"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/Submit/Task/index.tsx",
+        "components": [
+            "TColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/Submit/Task/taskTypeOptions.tsx",
+        "components": [
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/Submit/Task/taskTypeOptions.tsx",
+        "components": [
+            "TColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/Submit/Task/taskTypeOptions.tsx",
+        "components": [
+            "OptionType"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/Submit/Task/timeOptions.tsx",
+        "components": [
+            "IDropdownItemProps"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/Submit/ThreeLevelDropdown/DropdownItem.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/Submit/ThreeLevelDropdown/EngagementItem.tsx",
+        "components": [
+            "Text",
+            "Avatar"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/Submit/ThreeLevelDropdown/WorkspaceAvatar.tsx",
+        "components": [
+            "Avatar"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/Submit/ThreeLevelDropdown/WorkspaceItem.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/Submit/ThreeLevelDropdown/index.tsx",
+        "components": [
+            "NewPopover",
+            "Text",
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/Submit/ThreeLevelDropdown/index.tsx",
+        "components": [
+            "IHandlers"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/Submit/index.tsx",
+        "components": [
+            "Text",
+            "Button",
+            "Notification",
+            "Banner",
+            "TextField",
+            "Avatar"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/Time/Container/Submit/index.tsx",
+        "components": [
+            "TColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/UserSettings/Container/TokenManagement/DeleteTokenModal/index.tsx",
+        "components": [
+            "Modal",
+            "Text",
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/UserSettings/Container/TokenManagement/GenerateTokenModal/index.tsx",
+        "components": [
+            "Modal",
+            "TextField",
+            "Text",
+            "DropdownList",
+            "RadioGroup",
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/UserSettings/Container/TokenManagement/GenerateTokenModal/index.tsx",
+        "components": [
+            "TDataObject"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/UserSettings/Container/TokenManagement/Title/index.tsx",
+        "components": [
+            "Text",
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/UserSettings/Container/TokenManagement/TokenModal/index.tsx",
+        "components": [
+            "Modal",
+            "TextField",
+            "Button",
+            "Text",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/UserSettings/Container/TokenManagement/TokensTable/index.tsx",
+        "components": [
+            "Table",
+            "Link",
+            "Button",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/scenes/UserSettings/Container/TokenManagement/index.tsx",
+        "components": [
+            "Loader",
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/types/reportTypes.ts",
+        "components": [
+            "TColor"
+        ]
+    },
+    {
+        "file": "Testlio/app/src/utils/errors.js",
+        "components": [
+            "Notification"
+        ]
+    }
+]

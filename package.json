@@ -1,0 +1,30 @@
+{
+  "name": "lib-parse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "bin": {
+    "lib-parse": "bin/lib-parse"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc index.ts",
+    "build-stat": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.17",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "arg": "^5.0.1",
+    "esm": "^3.2.25",
+    "inquirer": "^8.2.0"
+  }
+}

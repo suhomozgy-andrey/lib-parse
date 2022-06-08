@@ -1,0 +1,386 @@
+[
+    {
+        "file": "Testlio/execution-app/src/Executable/Container/FinishButton/index.tsx",
+        "components": [
+            "Button",
+            "Snackbar"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/Executable/Container/NextTestButton/index.tsx",
+        "components": [
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/Executable/Container/TestCase/TestStepTypes/Exploratory/index.tsx",
+        "components": [
+            "Input",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/Executable/Container/TestCase/TestStepTypes/FileUpload/index.tsx",
+        "components": [
+            "Notification"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/Executable/Container/TestCase/TestStepTypes/LinearScale/Choices/index.tsx",
+        "components": [
+            "Button",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/Executable/Container/TestCase/TestStepTypes/MultipleChoice/index.tsx",
+        "components": [
+            "Input",
+            "RadioGroup",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/Executable/Container/TestCase/TestStepTypes/Paragraph/index.tsx",
+        "components": [
+            "Input"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/Executable/Container/TestCase/TestStepTypes/PassFail/index.tsx",
+        "components": [
+            "Button",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/Executable/Container/TestCase/TestStepTypes/Precondition/index.tsx",
+        "components": [
+            "Banner"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/Executable/Container/TestCase/TestStepTypes/ShortAnswer/index.tsx",
+        "components": [
+            "Input"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/Executable/Container/TestCase/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/Issues/Issue/Comments/List/index.tsx",
+        "components": [
+            "Text",
+            "Avatar",
+            "RelativeDate",
+            "MarkDown"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/Issues/Issue/Comments/New/index.tsx",
+        "components": [
+            "Avatar",
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/Issues/Issue/Edit/index.tsx",
+        "components": [
+            "Icon",
+            "Text",
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/Issues/Issue/Form/index.tsx",
+        "components": [
+            "Button",
+            "DropdownList",
+            "Loader",
+            "Banner",
+            "Input"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/Issues/Issue/Issue.tsx",
+        "components": [
+            "Paragraph",
+            "Loader",
+            "Text",
+            "Banner",
+            "Button",
+            "Chip",
+            "Icon",
+            "MarkDown"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/Issues/Issue/New/Guidelines/index.tsx",
+        "components": [
+            "Icon",
+            "Text",
+            "Button",
+            "Paragraph",
+            "MarkDown"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/Issues/Issue/New/SdkCode/index.tsx",
+        "components": [
+            "Text",
+            "Button",
+            "Paragraph",
+            "QRCode",
+            "Banner"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/Issues/Issue/New/index.tsx",
+        "components": [
+            "Icon",
+            "Text",
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/Issues/Issue/Reproduction/index.tsx",
+        "components": [
+            "Icon",
+            "Text",
+            "Button",
+            "Checkbox"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/Issues/List/List.tsx",
+        "components": [
+            "Table",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/Issues/index.tsx",
+        "components": [
+            "Icon",
+            "Input",
+            "Banner",
+            "Text",
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/components/Attachments/index.tsx",
+        "components": [
+            "PantheraAttachments"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/components/FileChip/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/components/FileUploader/Attachment/Edit/index.tsx",
+        "components": [
+            "Icon",
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/components/FileUploader/List/Edit/index.tsx",
+        "components": [
+            "Attachments",
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/components/FileUploader/List/View/index.tsx",
+        "components": [
+            "Attachments"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/components/MarkDownContent/index.tsx",
+        "components": [
+            "Input",
+            "Text",
+            "MarkDown"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/components/Menu/index.tsx",
+        "components": [
+            "Icon",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/components/NotFound/index.tsx",
+        "components": [
+            "Button",
+            "Icon",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/components/TestFrame/Feedback/index.tsx",
+        "components": [
+            "Button",
+            "Input",
+            "Modal"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/components/TestFrame/UnableToTestDropdown/index.tsx",
+        "components": [
+            "Button",
+            "DropdownList"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/components/TestFrame/index.tsx",
+        "components": [
+            "Button",
+            "Text",
+            "Table",
+            "Banner"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/components/TextAreaModal/index.tsx",
+        "components": [
+            "ModalConfirm",
+            "Input"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/layouts/Header/index.tsx",
+        "components": [
+            "Icon",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/scenes/Execution/Finished/index.tsx",
+        "components": [
+            "Button",
+            "Text",
+            "Input",
+            "Label"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/scenes/Execution/InfoPage/DateTime/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/scenes/Execution/InfoPage/index.tsx",
+        "components": [
+            "Button",
+            "Text",
+            "MarkDown"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/scenes/Execution/PlanTest/HeaderExtra/index.tsx",
+        "components": [
+            "Button"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/scenes/Execution/PlanTest/Sider/TestLead/index.tsx",
+        "components": [
+            "Avatar",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/scenes/Execution/PlanTest/Sider/index.tsx",
+        "components": [
+            "Button",
+            "Icon",
+            "Text",
+            "MarkDown"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/scenes/Execution/PlanTest/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/scenes/Execution/Setup/Build/Sdk/index.tsx",
+        "components": [
+            "Text",
+            "QRCode"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/scenes/Execution/Setup/Build/index.tsx",
+        "components": [
+            "Button",
+            "Icon"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/scenes/Execution/Setup/CardItem/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/scenes/Execution/Setup/CardMultipleItems/index.tsx",
+        "components": [
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/scenes/Execution/Setup/MultipleAssignmentDevice/UserDevicesModal/DataSelect/DataSelect.tsx",
+        "components": [
+            "DropdownList",
+            "Input"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/scenes/Execution/Setup/MultipleAssignmentDevice/UserDevicesModal/DataSelect/DataSelect.tsx",
+        "components": [
+            "TDataObject"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/scenes/Execution/Setup/MultipleAssignmentDevice/UserDevicesModal/UserDevicesModal.tsx",
+        "components": [
+            "Banner",
+            "Button",
+            "Modal",
+            "Table",
+            "Text"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/scenes/Execution/Setup/MultipleAssignmentDevice/index.tsx",
+        "components": [
+            "Badge",
+            "Button",
+            "PopoverMenu"
+        ]
+    },
+    {
+        "file": "Testlio/execution-app/src/scenes/Execution/Setup/index.tsx",
+        "components": [
+            "Banner",
+            "Button",
+            "Card",
+            "Icon",
+            "Text"
+        ]
+    }
+]
